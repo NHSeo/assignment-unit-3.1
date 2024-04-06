@@ -51,7 +51,7 @@ console.log('Second animal is', secondAnimal);
 //      sure that your code does what you want. (Never trust your code until
 //      you have proof that it works!)
 
-let lastAnimal = animalArray[animalArray.length-1];
+let lastAnimal = animalArray[animalArray.length - 1];
 console.log('Last animal is', lastAnimal);
 
 // 3.c. (STRETCH) TODO: Refactor 3.b to use the `animalArray` variable's .length 
